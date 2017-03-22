@@ -1,0 +1,15 @@
+{
+  "name": "mountain-view-paradise",
+  "version": "1.0.0",
+  "description": "[Half Slider](http://startbootstrap.com/template-overviews/half-slider/) is an HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features a full width, half page image slider header with captions.",
+  "main": "lib/server.js",
+  "scripts": {
+    "start": "node ./lib/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
